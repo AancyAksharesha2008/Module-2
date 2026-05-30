@@ -18,6 +18,8 @@ binary = bin(number)
 print("Binary representation of", number, "is", binary)
 ```
 ## Output
+```
 Binary representation of 16 is 0b10000
+```
 ## Result
 The output has been verified successfully.
