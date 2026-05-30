@@ -26,7 +26,6 @@ result = find_modulo(num1, num2)
 
 print("Modulo =", result)
 ```
-
 ## Output
 ```
 Enter first number: 17
